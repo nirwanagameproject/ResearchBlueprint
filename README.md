@@ -23,4 +23,4 @@ Langkah Pembuatan Project pada Unreal Engine
 - Tentukan Nama Protek
 -- Misal Isi "Project Name" : "ResearchBlueprint"
 - Jika sudah seperti tampilan yang dibawah ini maka pilih "Create"
-![alt text](Capture ResearchBlueprint step 1.png?raw=true "Tampilan Unreal Engine Create New Project")
+![alt text](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/Screenshot/Capture%20ResearchBlueprint%20step%201.PNG "Tampilan Unreal Engine Create New Project")
