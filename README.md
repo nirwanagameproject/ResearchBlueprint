@@ -11,7 +11,9 @@ Spesifikasi Testing
 
 ## Langkah Unreal Engine
 
-Langkah Pembuatan Project pada Unreal Engine
+### Pembuatan Proyek Baru
+
+Langkah Pembuatan Proyek pada Unreal Engine
 - Buka Unreal Engine
 - Pilih "Games" pada kolom kiri
 - Pilih "First Person" pada kolom tengah
@@ -28,6 +30,7 @@ Langkah Pembuatan Project pada Unreal Engine
 
 ![alt text](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/Screenshot/Capture%20ResearchBlueprint%20step%201.PNG "Tampilan Unreal Engine Create New Project")
 
+### Edit Blueprint pada Objek
 
 Langkah untuk membuka Blueprint pada suatu Objek (contoh : BP_Rifle Actor)
 - Pada kolom kanan terdapat "Outliner"
