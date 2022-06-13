@@ -25,3 +25,15 @@ Langkah Pembuatan Project pada Unreal Engine
 - Jika sudah seperti tampilan yang dibawah ini maka pilih "Create"
 
 ![alt text](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/Screenshot/Capture%20ResearchBlueprint%20step%201.PNG "Tampilan Unreal Engine Create New Project")
+
+Langkah untuk membuka Blueprint pada suatu Objek (contoh : BP_Rifle Actor)
+- Pada kolom kanan terdapat "Outliner"
+- Cari Objek "Item Label" bernama "BP_Rifle"
+- Pilih "Edit BP_Rifle" pada kolom "type" seperti berikut
+
+![alt text](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/Screenshot/Capture%20ResearchBlueprint%20step%202.png "Tampilan Unreal Engine Edit Blueprint BP_Rifle")
+
+- Maka akan terbuka pada tab Event Graph seperti berikut
+
+![alt text](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/Screenshot/Capture%20ResearchBlueprint%20step%203.png "Tampilan Unreal Engine Blueprint BP_Rifle")
+
