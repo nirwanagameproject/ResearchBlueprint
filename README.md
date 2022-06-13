@@ -9,6 +9,8 @@ Spesifikasi Testing
 - RAM : 24 GB
 - Game Engine : Unreal Engine 5.0.2
 
+## Langkah Unreal Engine
+
 Langkah Pembuatan Project pada Unreal Engine
 - Buka Unreal Engine
 - Pilih "Games" pada kolom kiri
@@ -25,6 +27,7 @@ Langkah Pembuatan Project pada Unreal Engine
 - Jika sudah seperti tampilan yang dibawah ini maka pilih "Create"
 
 ![alt text](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/Screenshot/Capture%20ResearchBlueprint%20step%201.PNG "Tampilan Unreal Engine Create New Project")
+
 
 Langkah untuk membuka Blueprint pada suatu Objek (contoh : BP_Rifle Actor)
 - Pada kolom kanan terdapat "Outliner"
