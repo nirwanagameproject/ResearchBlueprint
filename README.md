@@ -47,7 +47,7 @@ Langkah untuk membuka Blueprint pada suatu Objek (contoh : BP_Rifle Actor)
 
 ### Penjelasan Flow Blueprint
 
-Untuk penjelasan flow blueprint mengambil sample dari Onjek BP_Rifle berikut
+Untuk penjelasan flow blueprint mengambil sample dari Objek BP_Rifle berikut
 
 ![alt text](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/Screenshot/Capture%20ResearchBlueprint%20step%204.png "Tampilan Penjelasan Flow Unreal Engine Blueprint BP_Rifle")
 
