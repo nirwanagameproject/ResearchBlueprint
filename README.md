@@ -1,6 +1,6 @@
 # ResearchBlueprint
 
-ReserachBlueprint adalah projek riset flow blueprint pada game engine Unity
+ReserachBlueprint adalah projek riset flow blueprint pada game engine Unreal Engine
 
 Spesifikasi Testing
 - Sistem Operasi : Windows 10 Pro 64 Bit
